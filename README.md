@@ -349,7 +349,6 @@ By default, all components have access to the `$attributes` and `$options` array
 | id($id) | Set the id of the link | string |
 | icon($icon) | Set the icon of the link (font awesome) | string |
 | href(function($model){}) | Set the href of the link | string/callback |
-| view($view) | The view to render for the component | string |
 
 #### Button Component
 
@@ -359,7 +358,6 @@ By default, all components have access to the `$attributes` and `$options` array
 | class($class) | Set the html class on the button | string |
 | id($id) | Set the id of the button | string |
 | icon($icon) | Set the icon of the button (font awesome) | string |
-| view($view) | The view to render for the component | string |
 
 #### Example
 
